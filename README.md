@@ -1,0 +1,2 @@
+# StaticTest
+static website testing 
